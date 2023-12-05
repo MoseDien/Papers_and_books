@@ -6,7 +6,7 @@
 - https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
 
 ## website
-- https://math.stackexchange.com/questions/tagged/elliptic-curves
+- [stackexchange](https://math.stackexchange.com/questions/tagged/elliptic-curves)
 
 ## Books
 - [2009, The Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)
